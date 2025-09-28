@@ -1,4 +1,4 @@
-## 🚀 Projeto simples de Login e Logout em PHP!
+# 🚀 Projeto simples de Login e Logout em PHP!
 Este projeto foi desenvolvido em **PHP puro**, com o objetivo de implementar um sistema simples de **login e logout**.  
 A lógica do sistema foi estruturada utilizando **rotas**, garantindo melhor organização e clareza no fluxo do código.
 
